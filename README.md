@@ -12,5 +12,5 @@
 我将JAR包，以及main源码，tools源码，以及maven-POM依赖共享出来，没错这个工具是开源的。   
 
 附图：  
-(图片1)[gitsync.png]
+![图片1](gitsync.png)
 
